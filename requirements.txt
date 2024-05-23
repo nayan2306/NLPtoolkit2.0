@@ -1,0 +1,7 @@
+streamlit
+spacy
+nltk
+transformers
+gensim
+langdetect
+googletrans==4.0.0-rc1
